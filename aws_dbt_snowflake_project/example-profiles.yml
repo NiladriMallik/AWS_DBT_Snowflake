@@ -1,0 +1,14 @@
+aws_dbt_snowflake_project:
+  outputs:
+    dev:
+      account:
+      database:
+      private_key_passphrase:
+      private_key_path:
+      role:
+      schema:
+      threads:
+      type:
+      user:
+      warehouse:
+  target:
